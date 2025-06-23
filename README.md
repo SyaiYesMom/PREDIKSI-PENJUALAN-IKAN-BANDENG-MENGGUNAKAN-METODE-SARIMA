@@ -26,9 +26,8 @@ bash
 Copy
 Edit
 PREDIKSI-PENJUALAN-IKAN-BANDENG/
-├── data/
-│   └── penjualan_jan2022.csv    # Data harian Januari 2022
-├── sarima_model.py              # Script utama untuk prediksi SARIMA
+├── data.CSV                     # Data harian Januari 2022
+├── AI-DRIVEN_DSS.py             # Script utama untuk prediksi SARIMA
 ├── README.md                    # Dokumentasi proyek
 └── grafik_output/               # (Opsional) Gambar hasil prediksi
 🚀 Cara Menjalankan Proyek
