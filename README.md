@@ -1,14 +1,13 @@
-🐟 Prediksi Penjualan Ikan Bandeng Menggunakan Metode SARIMA
+# **🐟 Prediksi Penjualan Ikan Bandeng Menggunakan Metode SARIMA**
+
 Proyek ini merupakan implementasi model SARIMA (Seasonal AutoRegressive Integrated Moving Average) dalam melakukan prediksi penjualan harian ikan bandeng, menggunakan data historis bulan Januari 2022. Proyek ini bertujuan untuk memprediksi jumlah penjualan untuk 7 hari ke depan, membantu pelaku usaha dalam pengambilan keputusan berdasarkan pola waktu dan musiman.
 
-📌 Ringkasan Proyek
-Metode: SARIMA (Seasonal ARIMA)
+## **📌 Ringkasan Proyek**
 
-Data: Penjualan harian ikan bandeng bulan Januari 2022
-
-Output: Prediksi penjualan untuk 7 hari ke depan (Februari)
-
-Visualisasi: Grafik prediksi vs. data aktual menggunakan matplotlib
+- Metode: SARIMA (Seasonal ARIMA)
+- Data: Penjualan harian ikan bandeng bulan Januari 2022
+- Output: Prediksi penjualan untuk 7 hari ke depan (Februari)
+- Visualisasi: Grafik prediksi vs. data aktual menggunakan matplotlib
 
 📈 Contoh Grafik Output
 Grafik hasil prediksi menunjukkan tren penjualan selama Januari, serta proyeksi selama 7 hari ke depan.
